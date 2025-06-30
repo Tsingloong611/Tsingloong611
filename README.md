@@ -272,7 +272,7 @@ drwxr-xr-x 5 tsing developers 4096 Dec 26 2024 ../
   "api_version": "2.1.0",
   "endpoints": {
     "blog": {
-      "url": "https://blog.tsing.dev",
+      "url": "https://tsingloong.xyz",
       "description": "Technical insights & learning journey",
       "status": "active",
       "last_post": "2024-12-27T14:30:00Z"
@@ -300,8 +300,9 @@ drwxr-xr-x 5 tsing developers 4096 Dec 26 2024 ../
 
 <br>
 
-[![Blog](https://img.shields.io/badge/📚_dev.blog-Technical_Chronicles-00ff41?style=for-the-badge&logoColor=white&labelColor=0a0a0a&logo=rss)](你的博客链接)
-[![Email](https://img.shields.io/badge/📧_ping%40-Response_24h-ffd700?style=for-the-badge&logoColor=black&labelColor=0a0a0a&logo=protonmail)](mailto:你的邮箱)
+[![Blog](https://img.shields.io/badge/📚_dev.blog-Technical_Chronicles-00ff41?style=for-the-badge&logoColor=white&labelColor=0a0a0a&logo=rss)](https://tsingloong.xyz)
+[![Minecraft](https://img.shields.io/badge/🎮_Minecraft-NEXUS.K_Server-00bfff?style=for-the-badge&logoColor=white&labelColor=0a0a0a&logo=minecraft)](https://nexusk.fun)
+[![Email](https://img.shields.io/badge/📧_ping%40-Response_24h-ffd700?style=for-the-badge&logoColor=black&labelColor=0a0a0a&logo=protonmail)](tsingloong611@gmail.com)
 [![GitHub](https://img.shields.io/badge/⭐_git_clone-Daily_Commits-ff6b35?style=for-the-badge&logoColor=white&labelColor=0a0a0a&logo=github)](https://github.com/Tsingloong611)
 
 </div>
