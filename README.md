@@ -12,7 +12,7 @@
 <div style="background: linear-gradient(145deg, #0a0a0a 0%, #1a1a1a 50%, #0a0a0a 100%); padding: 20px; border-radius: 0 0 8px 8px; border: 1px solid #333; border-top: none; position: relative;">
 
 <pre style="margin: 0; position: relative;">
-<span style="color: #555;">Last login: $(date) from 192.168.1.xxx</span>
+<span style="color: #555;">Last login: $(date) from 192.168.1.1</span>
 <span style="color: #00ff41;">╭─[</span><span style="color: #ff6b35;">tsing</span><span style="color: #64ffda;">@</span><span style="color: #bb9af7;">devbox</span><span style="color: #00ff41;">]─[</span><span style="color: #ffd700;">~/github.com/portfolio</span><span style="color: #00ff41;">] </span><span style="color: #f7768e;">🐉</span>
 <span style="color: #00ff41;">╰─$</span> <span style="color: #ffffff;">neofetch --ascii_distro arch --colors 2 7 4 6 1 7</span>
 </pre>
