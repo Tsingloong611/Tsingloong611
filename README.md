@@ -286,7 +286,7 @@ drwxr-xr-x 5 tsing developers 4096 Dec 26 2024 ../
     "version_control": {
       "platform": "github.com/Tsingloong611",
       "contributions": "daily",
-      "languages": ["Python", "Java", "TypeScript", "Bash"],
+      "languages": ["Python", "Java", "TypeScript", "Bash", "Zsh"],
       "interests": ["Web Dev", "System Design", "Open Source"]
     }
   },
